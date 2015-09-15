@@ -2,4 +2,4 @@ test ドキュメント
 
 prtest に commit 1
 
-masterからの編集
+masterとtest_confilictから編集
